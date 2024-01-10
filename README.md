@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dhanusjithkpi
+- 👋 Hi, I’m Dhanusjith VI
 - 👀 I’m interested in  Codeing
 - 🌱 I’m currently learning clean Architecture
 - 💞️ I’m looking to collaborate on RentalShare
